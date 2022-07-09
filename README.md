@@ -9,7 +9,7 @@ There are 3 steps to this configuration
 
 
 ## 1 - Lora32 Configuration
-This is a small adjustement of the sample BME from the Arduino-Lorawan library. The main change is getting the newer Adafruit BME library to work. 
+This is an adjustement of the sample BME example script from the Arduino-Lorawan library. The main change is getting the newer Adafruit BME library to work. 
 
 I decided to use PlatformIO to compile this configuration, but that introduced some interesting problems. *Most importantly* are the changes to **platformio.ini**
 
